@@ -4,7 +4,7 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![PHP Version](https://img.shields.io/badge/PHP-7.4%2B-blue)
-![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Database](https://img.shields.io/badge/Database-MySQLI-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🎯 Deskripsi Project
