@@ -318,7 +318,7 @@ Aplikasi ini mengintegrasikan dukungan AI untuk:
 
 ## 🌐 Live Demo
 
-🔗 **Live Demo:** [https://perpustakaan-demo.herokuapp.com](https://your-demo-link.com)
+🔗 **Live Demo:** [https://perpustakaanlitera.my.id/)
 
 **Demo Credentials:**
 ```
